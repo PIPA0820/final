@@ -13,7 +13,7 @@ body{
     width: 105px;
     height: 42px;
     left: 0px;
-    top: 490px;
+    top: 565px;
     background: #002551;
     border-radius: 34px;
 
@@ -29,7 +29,7 @@ body{
     position: relative;
     width: 305px;
     left: calc(50% - 309px/2 + 6.5px);
-    top: 370px;
+    top: 410px;
 
     font-family: 'Noto Sans';
     font-style: normal;
@@ -48,14 +48,14 @@ body{
 
 .input0{
     position: absolute;
-    left: 357px;
-    top: 404px;
+    left: 55px;
+    top: 455px;
 }
 
 .input0+label{
     position: absolute;
-    left: 392px;
-    top: 404px;
+    left: 85px;
+    top: 455px;
     font-family: 'Noto Sans';
     font-style: normal;
     font-weight: 700;
@@ -71,14 +71,14 @@ body{
 
 .input1{
     position: absolute;
-    left: 357px;
-    top: 467px;
+    left: 55px;
+    top: 523px;
 }
 
 .input1+label{
     position: absolute;
-    left: 392px;
-    top: 467px;
+    left: 85px;
+    top: 523px;
     font-family: 'Noto Sans';
     font-style: normal;
     font-weight: 700;
@@ -94,14 +94,14 @@ body{
 
 .input2{
     position: absolute;
-    left: 357px;
-    top: 530px;
+    left: 55px;
+    top: 595px;
 }
 
 .input2+label{
     position: absolute;
-    left: 392px;
-    top: 530px;
+    left: 85px;
+    top: 595px;
     font-family: 'Noto Sans';
     font-style: normal;
     font-weight: 700;
@@ -117,14 +117,14 @@ body{
 
 .input3{
     position: absolute;
-    left: 357px;
-    top: 593px;
+    left: 55px;
+    top: 665px;
 }
 
 .input3+label{
     position: absolute;
-    left: 392px;
-    top: 593px;
+    left: 85px;
+    top: 665px;
     font-family: 'Noto Sans';
     font-style: normal;
     font-weight: 700;
@@ -137,3 +137,4 @@ body{
 
     color: #2D415A;
 }
+
