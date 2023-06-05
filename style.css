@@ -1,0 +1,139 @@
+body{
+    text-align: center;
+    background-image: url("2.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: contain;
+}
+
+#startButton{
+
+    position: relative;
+    width: 105px;
+    height: 42px;
+    left: 0px;
+    top: 530px;
+    background: #002551;
+    border-radius: 34px;
+
+    font-family: 'Noto Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 44px;
+    color: #FFFFFF;
+}
+
+#question{
+    position: relative;
+    width: 305px;
+    left: calc(50% - 309px/2 + 6.5px);
+    top: 400px;
+
+    font-family: 'Noto Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 22px;
+    text-align: center;
+    letter-spacing: 0.015em;
+
+    color: #FFFFFF;
+}
+
+#options{
+    position: relative;
+}
+
+.input0{
+    position: absolute;
+    left: 715px;
+    top: 432px;
+}
+
+.input0+label{
+    position: absolute;
+    left: 750px;
+    top: 432px;
+    font-family: 'Noto Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 10px;
+    line-height: 18px;
+    /* identical to box height */
+
+    text-align: center;
+    letter-spacing: 0.015em;
+
+    color: #2D415A;
+    }
+
+.input1{
+    position: absolute;
+    left: 715px;
+    top: 500px;
+}
+
+.input1+label{
+    position: absolute;
+    left: 750px;
+    top: 500px;
+    font-family: 'Noto Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 10px;
+    line-height: 18px;
+    /* identical to box height */
+
+    text-align: center;
+    letter-spacing: 0.015em;
+
+    color: #2D415A;
+}
+
+.input2{
+    position: absolute;
+    left: 715px;
+    top: 567px;
+}
+
+.input2+label{
+    position: absolute;
+    left: 750px;
+    top: 567px;
+    font-family: 'Noto Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 10px;
+    line-height: 18px;
+    /* identical to box height */
+
+    text-align: center;
+    letter-spacing: 0.015em;
+
+    color: #2D415A;
+}
+
+.input3{
+    position: absolute;
+    left: 715px;
+    top: 635px;
+}
+
+.input3+label{
+    position: absolute;
+    left: 750px;
+    top: 635px;
+    font-family: 'Noto Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 10px;
+    line-height: 18px;
+    /* identical to box height */
+
+    text-align: center;
+    letter-spacing: 0.015em;
+
+    color: #2D415A;
+}
